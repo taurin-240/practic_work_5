@@ -1,0 +1,162 @@
+[
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb86f"
+    },
+    "source": {
+      "id": null,
+      "name": "Mental Floss"
+    },
+    "author": "CaLea Johnson",
+    "title": "The 10 Most Popular Subjects for Online Learning",
+    "description": "The internet is a valuable educational resource, especially when it comes to these topics.",
+    "url": "https://www.mentalfloss.com/most-popular-online-learning-subjects",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5760,h_3240,x_0,y_49/images/GettyImages/mmsport/mentalfloss/01jerm7y2ymsg2d7pe2m",
+    "publishedAt": "2024-12-24T17:01:00Z",
+    "content": "Virtual learningremote or onlinehas become a popular option for students, especially since the COVID-19 shutdowns in 2020. It offers a convenient way to obtain new skills without commuting or relocat… [+2486 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb85e"
+    },
+    "source": {
+      "id": null,
+      "name": "Hubspot.com"
+    },
+    "author": "Rachael Nicholson",
+    "title": "Building the Right Foundation for Cornerstone Content — Here's Everything I Know",
+    "description": "I remember exactly where I was when I stumbled upon the concept of cornerstone content for the first time. It was a fresh winter's morning in late December, and the sunshine glistened over the frosted ground … Okay, I kid, I kid.",
+    "url": "https://blog.hubspot.com/marketing/cornerstone-content#article",
+    "urlToImage": "https://knowledge.hubspot.com/hubfs/cornerstone-content-1-20241224-4085737.webp",
+    "publishedAt": "2024-12-24T13:30:00Z",
+    "content": "I remember exactly where I was when I stumbled upon the concept of cornerstone content for the first time. It was a fresh winter's morning in late December, and the sunshine glistened over the froste… [+33413 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb874"
+    },
+    "source": {
+      "id": null,
+      "name": "Search Engine Journal"
+    },
+    "author": "Greg Jarboe",
+    "title": "10 Strategic SEO Insights & Tactical Advice For 2025 And Beyond via @sejournal, @gregjarboe",
+    "description": "Staying ahead has never been more crucial. Explore these actionable strategies and tactics to ensure your success in the new age of search.\nThe post 10 Strategic SEO Insights & Tactical Advice For 2025 And Beyond appeared first on Search Engine Journal.",
+    "url": "https://www.searchenginejournal.com/strategic-seo-insights-tactical-advice/533663/",
+    "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/strategy-tactics-778.png",
+    "publishedAt": "2024-12-24T12:00:51Z",
+    "content": "At the beginning of 2002, there were more than a dozen “search engines,” including crawlers, directories, and paid/PPC/CPC engines.\r\nBut by the end of that year, Google had emerged from the pack to b… [+12374 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb8b7"
+    },
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Michael Chagala, Forbes Councils Member, \n Michael Chagala, Forbes Councils Member\n https://www.forbes.com/councils/forbesagencycouncil/people/michaelchagala/",
+    "title": "Understanding And Making Use Of The Mysterious Organic Traffic Boost With Paid Google Ads",
+    "description": "A lot of people assume that Google Ads give advertisers a secret organic boost. Google denies this, and their algorithm doesn’t directly reward ad spend. So what does ad spend reward?",
+    "url": "https://www.forbes.com/councils/forbesagencycouncil/2024/12/23/understanding-and-making-use-of-the-mysterious-organic-traffic-boost-with-paid-google-ads/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6769d64fbc38f87f980efed3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-12-23T21:32:17Z",
+    "content": "Michael Chagala is the CEO and Co-founder of Rank Harvest Digital Marketing.\r\ngetty\r\nRun a Google Ad campaign, and youll frequently notice an indirect boost in your organic search rankings. Its not e… [+5792 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb8b2"
+    },
+    "source": {
+      "id": null,
+      "name": "Backlinko.com"
+    },
+    "author": "Backlinko Team",
+    "title": "SEO for Manufacturers: Definition, Benefits, and Top Tactics",
+    "description": "What Is Manufacturing SEO? Manufacturing SEO is the process of making changes to a manufacturing website to increase its visibility in organic search results. This can help it rank (appear high in search results) for keywords related to your company. For exam…",
+    "url": "https://backlinko.com/seo-for-manufacturers",
+    "urlToImage": "https://api.backlinko.com/app/uploads/2024/12/seo-for-manufacturers.png",
+    "publishedAt": "2024-12-23T15:23:34Z",
+    "content": "What Is Manufacturing SEO?\r\nManufacturing SEO is the process of making changes to a manufacturing website to increase its visibility in organic search results. This can help it rank (appear high in s… [+17518 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb871"
+    },
+    "source": {
+      "id": null,
+      "name": "Android Police"
+    },
+    "author": "Jay Bonggolto",
+    "title": "X's Premium Plus pricing is about to get more expensive",
+    "description": "X is charging way more for Premium Plus everywhere",
+    "url": "https://www.androidpolice.com/x-twitter-premium-plus-pricing-is-about-to-get-more-expensive/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/x-indigo-background.jpg",
+    "publishedAt": "2024-12-23T13:56:11Z",
+    "content": "Summary\r\n<ul><li>\r\n X's Premium Plus is raising US prices by 40%, now costing $22/month, while the annual plan jumps from $168 to $229.\r\n </li><li>\r\n New prices started December 21, 2024, but existin… [+2368 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb868"
+    },
+    "source": {
+      "id": null,
+      "name": "Denisdefreyne.com"
+    },
+    "author": "Denis Defreyne",
+    "title": "The intricacies of implementing memoization in Ruby",
+    "description": "A long time ago, I wrote a memoization library for Ruby. It was not easy, but I learned a great deal in the process. In this article, I am share these learnings and showing you how deep the memoization rabbit hole goes.",
+    "url": "https://denisdefreyne.com/articles/2024-memoization/",
+    "urlToImage": "https://denisdefreyne.com/articles/2024-memoization/card.png",
+    "publishedAt": "2024-12-23T13:37:13Z",
+    "content": "In the never-ending quest to write code that is performant, we have many techniques at our disposal. One of those techniques is memoization,111 Thats memoization, not memorizationtheres no r!  which … [+33091 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb861"
+    },
+    "source": {
+      "id": null,
+      "name": "Search Engine Journal"
+    },
+    "author": "Matt G. Southern",
+    "title": "Google Reveals Top Searches Of 2024 via @sejournal, @MattGSouthern",
+    "description": "Google's annual recap of the year's top trending searches offers dozens of ideas for content publishers looking to capitalize on long-tail keyword opportunities. \nThe post Google Reveals Top Searches Of 2024 appeared first on Search Engine Journal.",
+    "url": "https://www.searchenginejournal.com/google-reveals-top-searches-of-2024/534800/",
+    "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/img_2024-12-13-100101-227.jpeg",
+    "publishedAt": "2024-12-23T12:30:47Z",
+    "content": "Google has released its annual “Year in Search” report, highlighting the top trending searches, news, people, entertainment, and more that captured the world’s attention in 2024.\r\nBased on Google sea… [+5595 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb897"
+    },
+    "source": {
+      "id": null,
+      "name": "MakeUseOf"
+    },
+    "author": "Tess Ryan",
+    "title": "How to Have a Cheaper (and Greener) Holiday Road Trip with Google Maps",
+    "description": "Don't let your holiday travel cost more or take longer than it should!",
+    "url": "https://www.makeuseof.com/cheaper-greener-holiday-roadtrip-google-maps/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/12/google-maps-holiday-travel-fi-graphic.png",
+    "publishedAt": "2024-12-23T12:00:16Z",
+    "content": "Summary\r\n<ul><li>\r\n Google Maps offers fuel-efficient navigation settings personalized to your vehicle for cost and energy savings.\r\n </li><li>\r\n The most fuel-efficient route may differ for hybrids … [+4712 chars]"
+  },
+  {
+    "_id": {
+      "$oid": "676c81dcecffb405d58eb8b6"
+    },
+    "source": {
+      "id": null,
+      "name": "Wordpress.com"
+    },
+    "author": "Katie Koteen",
+    "title": "Why Alt Text Matters: Boost Accessibility and SEO with Every Image",
+    "description": "Alt text is exactly what it sounds like—a description of an image that appears on the page. Simple, right? But there’s more to it than that. To write truly effective alt text, it’s important to understand why it matters, when an image needs an alt attribute (…",
+    "url": "http://wordpress.com/blog/2024/12/23/what-is-alt-text/",
+    "urlToImage": "https://en-blog.files.wordpress.com/2024/12/why-alt-text-matters-header.jpg?w=1200",
+    "publishedAt": "2024-12-23T12:00:00Z",
+    "content": "The internet is a treasure trove of visuals, overflowing with inspiration and information. Images are what draw us in, keep us engaged, and help us learn, and create. But imagine the internet without… [+7648 chars]"
+  }
+]

@@ -1,0 +1,417 @@
+{
+  "query_1": [
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805693"
+      },
+      "source": {
+        "id": null,
+        "name": "Mental Floss"
+      },
+      "author": "CaLea Johnson",
+      "title": "The 10 Most Popular Subjects for Online Learning",
+      "description": "The internet is a valuable educational resource, especially when it comes to these topics.",
+      "url": "https://www.mentalfloss.com/most-popular-online-learning-subjects",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5760,h_3240,x_0,y_49/images/GettyImages/mmsport/mentalfloss/01jerm7y2ymsg2d7pe2m",
+      "publishedAt": "2024-12-24T17:01:00Z",
+      "content": "Virtual learningremote or onlinehas become a popular option for students, especially since the COVID-19 shutdowns in 2020. It offers a convenient way to obtain new skills without commuting or relocat… [+2486 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805682"
+      },
+      "source": {
+        "id": null,
+        "name": "Hubspot.com"
+      },
+      "author": "Rachael Nicholson",
+      "title": "Building the Right Foundation for Cornerstone Content — Here's Everything I Know",
+      "description": "I remember exactly where I was when I stumbled upon the concept of cornerstone content for the first time. It was a fresh winter's morning in late December, and the sunshine glistened over the frosted ground … Okay, I kid, I kid.",
+      "url": "https://blog.hubspot.com/marketing/cornerstone-content#article",
+      "urlToImage": "https://knowledge.hubspot.com/hubfs/cornerstone-content-1-20241224-4085737.webp",
+      "publishedAt": "2024-12-24T13:30:00Z",
+      "content": "I remember exactly where I was when I stumbled upon the concept of cornerstone content for the first time. It was a fresh winter's morning in late December, and the sunshine glistened over the froste… [+33413 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805698"
+      },
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Greg Jarboe",
+      "title": "10 Strategic SEO Insights & Tactical Advice For 2025 And Beyond via @sejournal, @gregjarboe",
+      "description": "Staying ahead has never been more crucial. Explore these actionable strategies and tactics to ensure your success in the new age of search.\nThe post 10 Strategic SEO Insights & Tactical Advice For 2025 And Beyond appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/strategic-seo-insights-tactical-advice/533663/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/strategy-tactics-778.png",
+      "publishedAt": "2024-12-24T12:00:51Z",
+      "content": "At the beginning of 2002, there were more than a dozen “search engines,” including crawlers, directories, and paid/PPC/CPC engines.\r\nBut by the end of that year, Google had emerged from the pack to b… [+12374 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056db"
+      },
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Chagala, Forbes Councils Member, \n Michael Chagala, Forbes Councils Member\n https://www.forbes.com/councils/forbesagencycouncil/people/michaelchagala/",
+      "title": "Understanding And Making Use Of The Mysterious Organic Traffic Boost With Paid Google Ads",
+      "description": "A lot of people assume that Google Ads give advertisers a secret organic boost. Google denies this, and their algorithm doesn’t directly reward ad spend. So what does ad spend reward?",
+      "url": "https://www.forbes.com/councils/forbesagencycouncil/2024/12/23/understanding-and-making-use-of-the-mysterious-organic-traffic-boost-with-paid-google-ads/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6769d64fbc38f87f980efed3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-23T21:32:17Z",
+      "content": "Michael Chagala is the CEO and Co-founder of Rank Harvest Digital Marketing.\r\ngetty\r\nRun a Google Ad campaign, and youll frequently notice an indirect boost in your organic search rankings. Its not e… [+5792 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056d6"
+      },
+      "source": {
+        "id": null,
+        "name": "Backlinko.com"
+      },
+      "author": "Backlinko Team",
+      "title": "SEO for Manufacturers: Definition, Benefits, and Top Tactics",
+      "description": "What Is Manufacturing SEO? Manufacturing SEO is the process of making changes to a manufacturing website to increase its visibility in organic search results. This can help it rank (appear high in search results) for keywords related to your company. For exam…",
+      "url": "https://backlinko.com/seo-for-manufacturers",
+      "urlToImage": "https://api.backlinko.com/app/uploads/2024/12/seo-for-manufacturers.png",
+      "publishedAt": "2024-12-23T15:23:34Z",
+      "content": "What Is Manufacturing SEO?\r\nManufacturing SEO is the process of making changes to a manufacturing website to increase its visibility in organic search results. This can help it rank (appear high in s… [+17518 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805695"
+      },
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jay Bonggolto",
+      "title": "X's Premium Plus pricing is about to get more expensive",
+      "description": "X is charging way more for Premium Plus everywhere",
+      "url": "https://www.androidpolice.com/x-twitter-premium-plus-pricing-is-about-to-get-more-expensive/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/x-indigo-background.jpg",
+      "publishedAt": "2024-12-23T13:56:11Z",
+      "content": "Summary\r\n<ul><li>\r\n X's Premium Plus is raising US prices by 40%, now costing $22/month, while the annual plan jumps from $168 to $229.\r\n </li><li>\r\n New prices started December 21, 2024, but existin… [+2368 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d80568c"
+      },
+      "source": {
+        "id": null,
+        "name": "Denisdefreyne.com"
+      },
+      "author": "Denis Defreyne",
+      "title": "The intricacies of implementing memoization in Ruby",
+      "description": "A long time ago, I wrote a memoization library for Ruby. It was not easy, but I learned a great deal in the process. In this article, I am share these learnings and showing you how deep the memoization rabbit hole goes.",
+      "url": "https://denisdefreyne.com/articles/2024-memoization/",
+      "urlToImage": "https://denisdefreyne.com/articles/2024-memoization/card.png",
+      "publishedAt": "2024-12-23T13:37:13Z",
+      "content": "In the never-ending quest to write code that is performant, we have many techniques at our disposal. One of those techniques is memoization,111 Thats memoization, not memorizationtheres no r!  which … [+33091 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805685"
+      },
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Matt G. Southern",
+      "title": "Google Reveals Top Searches Of 2024 via @sejournal, @MattGSouthern",
+      "description": "Google's annual recap of the year's top trending searches offers dozens of ideas for content publishers looking to capitalize on long-tail keyword opportunities. \nThe post Google Reveals Top Searches Of 2024 appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-reveals-top-searches-of-2024/534800/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/img_2024-12-13-100101-227.jpeg",
+      "publishedAt": "2024-12-23T12:30:47Z",
+      "content": "Google has released its annual “Year in Search” report, highlighting the top trending searches, news, people, entertainment, and more that captured the world’s attention in 2024.\r\nBased on Google sea… [+5595 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056bb"
+      },
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Tess Ryan",
+      "title": "How to Have a Cheaper (and Greener) Holiday Road Trip with Google Maps",
+      "description": "Don't let your holiday travel cost more or take longer than it should!",
+      "url": "https://www.makeuseof.com/cheaper-greener-holiday-roadtrip-google-maps/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/12/google-maps-holiday-travel-fi-graphic.png",
+      "publishedAt": "2024-12-23T12:00:16Z",
+      "content": "Summary\r\n<ul><li>\r\n Google Maps offers fuel-efficient navigation settings personalized to your vehicle for cost and energy savings.\r\n </li><li>\r\n The most fuel-efficient route may differ for hybrids … [+4712 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056da"
+      },
+      "source": {
+        "id": null,
+        "name": "Wordpress.com"
+      },
+      "author": "Katie Koteen",
+      "title": "Why Alt Text Matters: Boost Accessibility and SEO with Every Image",
+      "description": "Alt text is exactly what it sounds like—a description of an image that appears on the page. Simple, right? But there’s more to it than that. To write truly effective alt text, it’s important to understand why it matters, when an image needs an alt attribute (…",
+      "url": "http://wordpress.com/blog/2024/12/23/what-is-alt-text/",
+      "urlToImage": "https://en-blog.files.wordpress.com/2024/12/why-alt-text-matters-header.jpg?w=1200",
+      "publishedAt": "2024-12-23T12:00:00Z",
+      "content": "The internet is a treasure trove of visuals, overflowing with inspiration and information. Images are what draw us in, keep us engaged, and help us learn, and create. But imagine the internet without… [+7648 chars]"
+    }
+  ],
+  "query_2": [
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056ac"
+      },
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Darpan Munjal, Contributor, \n Darpan Munjal, Contributor\n https://www.forbes.com/sites/darpanmunjal/",
+      "title": "How AI Is Quietly Transforming E-Commerce Search And Discovery",
+      "description": "Search and discovery has always been important, but AI can take it to the next level, delivering what your customers need when they need it!",
+      "url": "https://www.forbes.com/sites/darpanmunjal/2024/12/22/how-ai-is-quietly-transforming-e-commerce-search-and-discovery/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67687cef14ac261058504f36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-22T20:59:01Z",
+      "content": "Digital search icon on future tech background. Search Engine Evolution. Futuristic search icon in ... [+] world of technological progress and innovation. CGI 3D render\r\ngetty\r\nIn the age of Google an… [+6937 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d80569b"
+      },
+      "source": {
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "author": "Matthew Sparkes",
+      "title": "AI beats human experts at distinguishing American whiskey from Scotch",
+      "description": "Using descriptions of flavours or chemical data, artificial intelligence can tell apart whiskies from different countries and identify their constituent aromas",
+      "url": "https://www.newscientist.com/article/2460910-ai-beats-human-experts-at-distinguishing-american-whiskey-from-scotch/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/12/19105415/SEI_233737707.jpg",
+      "publishedAt": "2024-12-19T16:00:28Z",
+      "content": "Colour, smell, taste and chemical constituents can all be used to distinguish whiskies\r\nJane Barlow/PA Images/Alamy\r\nArtificial intelligence can tell Scotch whisky from American whiskey and identify … [+2467 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d80569d"
+      },
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Roger Montti",
+      "title": "Cut The Malarkey. Speaking Frankly About AI Search & SEO via @sejournal, @martinibuster",
+      "description": "A frank assessment of the significant changes in search and what SEOs should be paying attention to right now and in 2025.\nThe post Cut The Malarkey. Speaking Frankly About AI Search & SEO appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/cut-the-malarkey-speaking-frankly-about-ai-search-seo/535892/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/ai-search-seo-233.jpg",
+      "publishedAt": "2024-12-19T10:15:40Z",
+      "content": "Search marketing is undergoing dramatic changes, with many debating whether SEO is on its way out as AI Search rises in popularity. What follows is a candid assessment of what is going on with SEO an… [+5386 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d80568e"
+      },
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+      "title": "Google launches 'Whisk' for fast AI-generated imagery and updates Veo 2, Imagen 3",
+      "description": "Whisking is no longer just for food — although, you could use this AI to generate food pictures.",
+      "url": "https://www.androidcentral.com/apps-software/google-ai-whisk-image-video-generation-updates",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aPiZKLKdSyo8nyNqNt3wNV-1200-80.jpg",
+      "publishedAt": "2024-12-16T18:46:25Z",
+      "content": "What you need to know\r\n<ul><li>Google launched its latest AI experiment, Whisk, for Labs testers, which is aimed at giving users a quicker avenue to image generation.</li><li>Whisk leverages Gemini a… [+4054 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d80568d"
+      },
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Michael Nuñez",
+      "title": "Pin thinks AI can fix recruitment’s biggest problems — and it has the numbers to prove it",
+      "description": "Pin emerges from stealth with $3M funding to transform AI-powered recruitment, achieving 70% candidate match rates and reducing hiring time from 60 days to two weeks through proprietary machine learning models.",
+      "url": "https://venturebeat.com/ai/pin-thinks-ai-can-fix-recruitments-biggest-problems-and-it-has-the-numbers-to-prove-it/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_automated_job_recruitment_1fb42267-9dc6-4a76-b601-34be9c5bb42d.webp?w=1024?w=1200&strip=all",
+      "publishedAt": "2024-12-12T11:00:00Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nPin, an artificial intelligence-powered recruitment platform that autom… [+3241 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056a7"
+      },
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Matt G. Southern",
+      "title": "Study: Google AI Overviews Appear In 47% Of Search Results via @sejournal, @MattGSouthern",
+      "description": "New study shows Google's AI Overviews appear in nearly half of searches, influencing how users interact with search results.\nThe post Study: Google AI Overviews Appear In 47% Of Search Results appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/study-google-ai-overviews-appear-in-47-of-search-results/535096/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/img_2024-12-11-104948-516.jpeg",
+      "publishedAt": "2024-12-11T15:53:50Z",
+      "content": "A new study shows that Google’s AI Overviews appear in nearly half of all search results and take up to 48% of mobile screen space.\r\nConducted by Botify and DemandSphere, the research analyzed over 1… [+3371 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805684"
+      },
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+      "title": "A 'Year in Search' highlights Google's top trends across AI and shows in 2024",
+      "description": "Google takes users on a trip through 2024 and its top trending searches.",
+      "url": "https://www.androidcentral.com/apps-software/google-a-year-in-search-2024-highlights",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTgwYjKwGJHWQmc5VLM4G5-1200-80.jpg",
+      "publishedAt": "2024-12-10T20:21:20Z",
+      "content": "What you need to know\r\n<ul><li>Google highlighted its \"Year in 2024\" data for what users searched for the most in Search and AI.</li><li>Circle to Search and Lens were used to \"identify items,\" shop,… [+3200 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805696"
+      },
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "waynewilliams@onmail.com (Wayne Williams)",
+      "title": "Analog AI chip startup wants to achieve 1 POPS per Watt: 1000 TOPS/W is 'within reach' says firm co-founder as he looks to analog-first Gigabit-sized SLMs",
+      "description": "Blumind's analog keyword spotting chip is entering production in 2025",
+      "url": "https://www.techradar.com/pro/analog-ai-chip-startup-wants-to-achieve-1-pops-per-watt-1000-tops-w-is-within-reach-says-firm-co-founder-as-he-looks-to-analog-first-gigabit-sized-slms",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3MwQLNfxVeKNXvzMqXnUba-1200-80.jpg",
+      "publishedAt": "2024-12-10T18:32:00Z",
+      "content": "<ul><li>Blumind debuts ultra-efficient analog AI chip, achieving 10 nJ/inference</li><li>Targeting wearables, healthcare, automotive, and always-on AI</li><li>Scaling for larger models, aiming for 10… [+2589 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805689"
+      },
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Charissa Cheong",
+      "title": "I worked my way up to a $500k AI job at Google without a Ph.D. Here are 2 methods I've used to stay competitive in my industry.",
+      "description": "Pushkar Singh started working for Google straight out of college in Bengaluru, India. Now, he's a senior engineer living in California.",
+      "url": "https://www.businessinsider.com/google-staff-engineer-ai-job-l6-promotion-2024-12",
+      "urlToImage": "https://i.insider.com/6750451b7929f317fb4fde1d?width=1200&format=jpeg",
+      "publishedAt": "2024-12-05T11:36:07Z",
+      "content": "Singh said being part of a research paper reading group has helped him stay up-to-date in his industry.Jayati Singh\r\n<ul><li>Pushkar Singh is an L6 engineer at Google. He's been in the ads AI space s… [+6160 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805699"
+      },
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Launch HN: Parsagon (YC W21) – AI for public affairs and government relations",
+      "description": "Comments",
+      "url": "https://news.ycombinator.com/item?id=42319315",
+      "urlToImage": null,
+      "publishedAt": "2024-12-04T16:50:06Z",
+      "content": "Hi HN! Im Sandy, and Im excited to introduce Parsagon. Parsagon is using AI to automate workflows for government affairs professionals, starting with an AI search for public policy. Here's a demo: ht… [+3674 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805681"
+      },
+      "source": {
+        "id": null,
+        "name": "Blocks and Files"
+      },
+      "author": "Chris Mellor",
+      "title": "Pinecone integrates AI inferencing with vector database",
+      "description": "GenAI inferencing can now be run directly from the Pinecone vector database to improve retrieval-augmented generation (RAG).",
+      "url": "https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/",
+      "urlToImage": "https://blocksandfiles.com/wp-content/uploads/2024/12/PInecone-Edo-Liberrty-teaser.jpg",
+      "publishedAt": "2024-12-04T07:52:14Z",
+      "content": "GenAI inferencing can now be run directly from the Pinecone vector database to improve retrieval-augmented generation (RAG).\r\nPinecone supplies a vector embedding database to be used by AI language m… [+4194 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056c1"
+      },
+      "source": {
+        "id": null,
+        "name": "Ppchero.com"
+      },
+      "author": "Dii Pooler",
+      "title": "AI-Powered Ad Copy: Writing Ads that Convert Without Losing the Human Touch",
+      "description": "AI is redefining the landscape of Pay-Per-Click (PPC) advertising. According to Goldman Sachs, AI is expected to generate $200 billion in marketing value by 2025, making it one of the most transformative technologies in the industry. From automated bidding sy…",
+      "url": "http://www.ppchero.com/ai-powered-ad-copy-writing-ads-that-convert-without-losing-the-human-touch/",
+      "urlToImage": "http://www.ppchero.com/wp-content/uploads/2024/12/nickchristian_An_editorial_image_of_a_robot_who_resemblEs_Willi_3418ae68-2cbd-46d3-ac0d-b1690e8253fe.png",
+      "publishedAt": "2024-12-03T12:52:24Z",
+      "content": "AI is redefining the landscape of Pay-Per-Click (PPC) advertising. According to Goldman Sachs, AI is expected to generate $200 billion in marketing value by 2025, making it one of the most transforma… [+6657 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056a0"
+      },
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Roger Montti",
+      "title": "New Report Shows AI Overviews Trends Are Stabilizing via @sejournal, @martinibuster",
+      "description": "Google AI Overview citations were generally stable in October and November but growth in more granular queries surged\nThe post New Report Shows AI Overviews Trends Are Stabilizing appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/new-report-shows-ai-overviews-trends-are-stabilizing/534023/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/11/brightedge-486.jpg",
+      "publishedAt": "2024-12-01T03:50:28Z",
+      "content": "As we enter the holiday season, October’s data reveals significant shifts and stabilization across industries in AI Overviews (AIOs). Critical insights from October reveal growth in certain sectors, … [+5480 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d805686"
+      },
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "Black Friday Gets Smarter, Lifetime Access to 1minAI’s All-in-One AI Tool for Only $30",
+      "description": "StackSocial has slashed 87% from the price of a lifetime license to this top-rated creative tool.",
+      "url": "https://gizmodo.com/black-friday-gets-smarter-lifetime-access-to-1minais-all-in-one-ai-tool-for-only-30-2000531364",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/1MinAI-1.jpg",
+      "publishedAt": "2024-11-29T13:05:42Z",
+      "content": "AI has become an immensely powerful creative tool in a very short time, and it seems to get more powerful every day. Harnessing the power of AI for writing, graphic design, photo and video artistry, … [+2361 chars]"
+    },
+    {
+      "_id": {
+        "$oid": "676dc5439c37d3875d8056b7"
+      },
+      "source": {
+        "id": null,
+        "name": "Practical Ecommerce"
+      },
+      "author": "Ann Smarty",
+      "title": "Action Steps for Bing’s AI SEO Guidelines",
+      "description": "Bing's newly published optimization guidelines are short on implementation tactics.\nThe post Action Steps for Bing’s AI SEO Guidelines appeared first on Practical Ecommerce.",
+      "url": "https://www.practicalecommerce.com/action-steps-for-bings-ai-seo-guidelines",
+      "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2024/11/Action-Steps-for-Bings-AI-SEO-Guidelines-e1732489409853.jpg",
+      "publishedAt": "2024-11-25T10:00:36Z",
+      "content": "Bing continues to develop AI-powered search solutions. It provides the index for OpenAI’s SearchGPT, launched last month. In July, it created its own version of Google’s AI Overviews called “Generati… [+3380 chars]"
+    }
+  ],
+  "query_3": [
+    {
+      "_id": null,
+      "max_words": 40,
+      "avg_words": 22.933333333333334,
+      "min_words": 1
+    }
+  ],
+  "query_4": {
+    "deleted_count": 17
+  }
+}
